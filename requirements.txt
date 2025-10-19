@@ -1,1 +1,3 @@
-https://miracles-allinone-calculator.streamlit.app
+streamlit
+pandas
+numpy
